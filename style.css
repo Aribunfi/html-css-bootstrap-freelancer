@@ -8,3 +8,26 @@ h1 {
     color: white;
     font-weight: bold;
 }
+
+.jumbotron {
+    background-color: #1abc9c;
+    height: 900;
+    width: 100%;
+    text-align: center;
+}
+
+.jumbotron > img {
+    width: 400px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    
+}
