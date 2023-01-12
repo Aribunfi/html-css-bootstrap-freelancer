@@ -31,3 +31,44 @@ ul {
     list-style-type: none;
     
 }
+
+.container {
+    text-align: center;
+}
+
+.card {
+    width: 1000px;
+    height: 400px;
+    border-radius: 15px;
+    margin: 25px;
+    align-items: center;
+ }
+
+.card > img {
+    width: 500px;
+}
+
+#house {
+    background-color: #ba4b63;
+}
+
+#cake {
+    background-color: #1ea4b6;
+}
+
+#circus {
+    background-color: #140f0f;
+}
+
+#joystick {
+    background-color: #1c83c1;
+}
+
+#safe {
+    background-color: #0e38b5;
+}
+
+#submarine {
+    background-color: #ccb2a3;
+}
+
